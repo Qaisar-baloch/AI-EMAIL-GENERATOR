@@ -157,7 +157,7 @@ Additional details:
             with st.spinner("Generating your email..."):
 
                 response = client.chat.completions.create(
-                    model="streamlit>=1.40.0groq>=0.11.0",
+                    model="openai/gpt-oss-20b",
                     messages=[
                         {
                             "role": "system",
