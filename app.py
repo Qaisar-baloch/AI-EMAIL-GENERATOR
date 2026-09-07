@@ -157,7 +157,7 @@ Additional details:
             with st.spinner("Generating your email..."):
 
                 response = client.chat.completions.create(
-                    model="llama-3.3-70b-versatile",
+                    model="streamlit>=1.40.0groq>=0.11.0",
                     messages=[
                         {
                             "role": "system",
