@@ -14,7 +14,7 @@ Once your application is deployed, add your Streamlit URL here:
 <img width="596" height="568" alt="image" src="https://github.com/user-attachments/assets/9c4078d8-a161-4b9e-910a-1fb926bdb91f" />
 
 ```text
-(https://ai-email-generator-5eg2njicewvgd6eganryk3.streamlit.app/)
+https://ai-email-generator-5eg2njicewvgd6eganryk3.streamlit.app/
 ```
 
 ---
